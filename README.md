@@ -2,7 +2,7 @@
 Recursion tree with splines 
 Inspired by https://lodev.org/cgtutor/recursiontrees.html
 Python implementation and PyQT GUI added
-<img src="Knipsel.jpg">
+<img src="./Knipsel.JPG">
 
 Some examples:
 <img src="./RecursionTreeBezier_1537945841529.svg">
